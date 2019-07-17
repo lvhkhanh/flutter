@@ -21,4 +21,8 @@ create new device
 
 sdkmanager
 
-[some-options-for-deserializing-json-with-flutter](https://medium.com/flutter/some-options-for-deserializing-json-with-flutter-7481325a4450)
+Refer
+
+* [some-options-for-deserializing-json-with-flutter](https://medium.com/flutter/some-options-for-deserializing-json-with-flutter-7481325a4450)
+
+* [dio](https://pub.dev/packages/dio)
