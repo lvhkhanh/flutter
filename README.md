@@ -25,4 +25,6 @@ Refer
 
 * [some-options-for-deserializing-json-with-flutter](https://medium.com/flutter/some-options-for-deserializing-json-with-flutter-7481325a4450)
 
-* [dio](https://pub.dev/packages/dio)
+* [Http Client dio](https://pub.dev/packages/dio)
+
+* [LINQ moor_flutter](https://pub.dev/packages/moor_flutter)
