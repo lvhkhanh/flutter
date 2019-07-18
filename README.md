@@ -21,6 +21,8 @@ create new device
 
 sdkmanager
 
+State management
+
 Refer
 
 * [some-options-for-deserializing-json-with-flutter](https://medium.com/flutter/some-options-for-deserializing-json-with-flutter-7481325a4450)
