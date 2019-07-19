@@ -38,3 +38,7 @@ Refer
 [ButtonBar center](https://stackoverflow.com/questions/49819915/how-to-create-a-button-bar-for-displaying-a-row-of-buttons?rq=1)
 
 `mainAxisSize: MainAxisSize.min,`
+
+[ListView crash in Row, Column](https://github.com/flutter/flutter/issues/17036)
+
+`Expanded(child: ListView())`
