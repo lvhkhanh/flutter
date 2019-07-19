@@ -34,3 +34,7 @@ Refer
 * [Http Client dio](https://pub.dev/packages/dio)
 
 * [LINQ moor_flutter](https://pub.dev/packages/moor_flutter)
+
+[ButtonBar center](https://stackoverflow.com/questions/49819915/how-to-create-a-button-bar-for-displaying-a-row-of-buttons?rq=1)
+
+`mainAxisSize: MainAxisSize.min,`
