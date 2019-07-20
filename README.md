@@ -10,7 +10,8 @@ iex "& { $(irm https://aka.ms/install-powershell.ps1) } -UseMSI"
 
 * [Git](https://git-scm.com/download/win)
 
-Install Extension Flutter
+Visual Studi Code Extensions
+* [Flutter](https://marketplace.visualstudio.com/items?itemName=Dart-Code.flutter)
 
 Control + Shift + P
 
