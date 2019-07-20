@@ -1,7 +1,7 @@
 # flutter
 
 
-Visual Studio Code
+[Download Visual Studio Code Insiders](https://code.visualstudio.com/insiders/)
 
 Install Extension Flutter
 
