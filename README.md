@@ -3,7 +3,9 @@
 
 [Download Visual Studio Code Insiders](https://code.visualstudio.com/insiders/)
 
-[powershell-6](https://docs.microsoft.com/en-us/powershell/scripting/install/installing-windows-powershell?view=powershell-6)
+[powershell-6](https://www.thomasmaurer.ch/2019/03/how-to-install-and-update-powershell-6/)
+
+iex "& { $(irm https://aka.ms/install-powershell.ps1) } -UseMSI"
 
 Install Extension Flutter
 
