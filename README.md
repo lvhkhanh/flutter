@@ -31,6 +31,12 @@ No suitable Android AVD system images are available. You may need to install the
 
 path `C:\Program Files (x86)\Android\android-sdk\tools\bin`, run `cmd` as administrator, accept all licenses
 
+Failed to launch emulator: PANIC: Cannot find AVD system path. Please define ANDROID_SDK_ROOT
+
+Set ANDROID_SDK_ROOT=C:\Program Files (x86)\Android\android-sdk
+
+Then restart
+
 State management
 
 * Global variable 
