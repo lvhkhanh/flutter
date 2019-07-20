@@ -15,6 +15,8 @@ Visual Studi Code Extensions
 
 Should run VS Code as administrator
 
+Set format on save
+
 Control + Shift + P
 
 Create Flutter Project
