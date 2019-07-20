@@ -21,7 +21,9 @@ Create Flutter Project
 
 F5: run
 
-Locate SDK
+Update Flutter SDK path to `flutter\bin`, remember to remove old path
+
+Locate SDK, 
 
 Add SDK to PATH
 
