@@ -29,6 +29,8 @@ create new device
 
 No suitable Android AVD system images are available. You may need to install these using `sdkmanager`, for example: `sdkmanager "system-images;android-27;google_apis_playstore;x86"`
 
+path `C:\Program Files (x86)\Android\android-sdk\tools\bin`
+
 State management
 
 * Global variable 
