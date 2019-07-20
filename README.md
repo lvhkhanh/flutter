@@ -29,6 +29,11 @@ flutter doctor
 
 create new device 
 
+
+update sdkmanager
+
+"C:\Program Files (x86)\Android\android-sdk\tools\bin\sdkmanager" "platforms;android-28" "build-tools;28.0.3"
+
 No suitable Android AVD system images are available. You may need to install these using `sdkmanager`, for example: `sdkmanager "system-images;android-27;google_apis_playstore;x86"`
 
 path `C:\Program Files (x86)\Android\android-sdk\tools\bin`, run `cmd` as administrator, accept all licenses
