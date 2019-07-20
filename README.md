@@ -13,6 +13,8 @@ iex "& { $(irm https://aka.ms/install-powershell.ps1) } -UseMSI"
 Visual Studi Code Extensions
 * [Flutter](https://marketplace.visualstudio.com/items?itemName=Dart-Code.flutter)
 
+Should run VS Code as administrator
+
 Control + Shift + P
 
 Create Flutter Project
