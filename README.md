@@ -3,6 +3,8 @@
 
 [Download Visual Studio Code Insiders](https://code.visualstudio.com/insiders/)
 
+[powershell-6](https://docs.microsoft.com/en-us/powershell/scripting/install/installing-windows-powershell?view=powershell-6)
+
 Install Extension Flutter
 
 Control + Shift + P
