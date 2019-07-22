@@ -21,6 +21,10 @@ Control + Shift + P
 
 Create Flutter Project
 
+Config Android version `android/app/build.gradle`
+
+[`minSdkVersion`, `targetSdkVersion`](https://developer.android.com/guide/topics/manifest/uses-sdk-element?utm_campaign=adp_series_sdkversion_010616&utm_source=medium&utm_medium=blog#ApiLevels)
+
 F5: run
 
 Update Flutter SDK path to `flutter\bin`, remember to remove old path
