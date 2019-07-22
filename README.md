@@ -33,6 +33,7 @@ flutter doctor
 
 create new device 
 
+[DOWNLOAD ANDROID STUDIO](https://developer.android.com/studio)
 
 update sdkmanager
 
