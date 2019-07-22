@@ -29,6 +29,8 @@ Config Android version `android/app/build.gradle`
 
 F5: run
 
+[D8: Cannot fit requested classes in a single dex file (# methods: 69176 > 65536)](https://stackoverflow.com/questions/55591958/flutter-firestore-causing-d8-cannot-fit-requested-classes-in-a-single-dex-file)
+
 Update Flutter SDK path to `flutter\bin`, remember to remove old path
 
 Locate SDK, 
