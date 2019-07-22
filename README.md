@@ -25,6 +25,8 @@ Config Android version `android/app/build.gradle`
 
 [`minSdkVersion`, `targetSdkVersion`](https://developer.android.com/guide/topics/manifest/uses-sdk-element?utm_campaign=adp_series_sdkversion_010616&utm_source=medium&utm_medium=blog#ApiLevels)
 
+[i18n, l10n](https://phraseapp.com/blog/posts/how-to-internationalize-a-flutter-app/)
+
 F5: run
 
 Update Flutter SDK path to `flutter\bin`, remember to remove old path
