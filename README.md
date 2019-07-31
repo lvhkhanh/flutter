@@ -21,6 +21,8 @@ Control + Shift + P
 
 Create Flutter Project
 
+Could not find a Flutter SDK. Please ensure flutter is installed and in your PATH (you may need to restart).
+
 Config Android version `android/app/build.gradle`
 
 [`minSdkVersion`, `targetSdkVersion`](https://developer.android.com/guide/topics/manifest/uses-sdk-element?utm_campaign=adp_series_sdkversion_010616&utm_source=medium&utm_medium=blog#ApiLevels)
