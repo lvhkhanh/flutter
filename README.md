@@ -2,13 +2,13 @@
 
 [Environment](https://flutter.dev/docs/get-started/install/windows)
 
-* [Download Visual Studio Code Insiders](https://code.visualstudio.com/insiders/)
-
 * [powershell-6](https://www.thomasmaurer.ch/2019/03/how-to-install-and-update-powershell-6/)
 
 iex "& { $(irm https://aka.ms/install-powershell.ps1) } -UseMSI"
 
 * [Git](https://git-scm.com/download/win)
+
+* [Download Visual Studio Code Insiders](https://code.visualstudio.com/insiders/)
 
 Visual Studio Code Extensions
 * [Flutter](https://marketplace.visualstudio.com/items?itemName=Dart-Code.flutter)
