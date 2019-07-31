@@ -10,7 +10,7 @@ iex "& { $(irm https://aka.ms/install-powershell.ps1) } -UseMSI"
 
 * [Git](https://git-scm.com/download/win)
 
-Visual Studi Code Extensions
+Visual Studio Code Extensions
 * [Flutter](https://marketplace.visualstudio.com/items?itemName=Dart-Code.flutter)
 
 Should run VS Code as administrator
