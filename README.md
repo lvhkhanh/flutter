@@ -89,4 +89,8 @@ Radio
 * http://fmstream.org/index.php?c=J&n=200
 
 Pub
+* [showcaseview](https://pub.dev/packages/showcaseview)
+
+![](https://github.com/simformsolutions/flutter_showcaseview/raw/master/preview/showcaseview.gif)
+
 * Add to Calendar
