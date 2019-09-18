@@ -111,3 +111,7 @@ Note: if Hyper-V or Credential Guard is enabled, the emulator will not work with
 See https://github.com/intel/haxm/issues/105#issuecomment-470927735 for info on how to disable Credential Guard.
 If you are using an AMD CPU or need to run alongside Hyper-V-based apps such as Docker, we recommend using Windows Hypervisor Platform.General information on acceleration: https://developer.android.com/studio/run/emulator-acceleration.
   Command: C:\Users\KhanhLVH\AppData\Local\Android\sdk\emulator\emulator.exe -avd flutter_emulator`
+```
+DISM /online /get-features
+DISM /online /enable-feature /featurename:HypervisorPlatform
+```
