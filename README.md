@@ -99,3 +99,15 @@ Pub
 ![](https://github.com/simformsolutions/flutter_showcaseview/raw/master/preview/showcaseview.gif)
 
 * Add to Calendar
+
+`Failed to launch flutter emulator: ProcessException: Process exited abnormally:
+emulator: ERROR: x86 emulation currently requires hardware acceleration!
+Please ensure Windows Hypervisor Platform (WHPX) is properly installed and usable.
+CPU acceleration status: Unable to open HAXM device: ERROR_FILE_NOT_FOUND
+More info on configuring VM acceleration on Windows:
+https://developer.android.com/studio/run/emulator-acceleration#vm-windows
+If you are using an Intel CPU: please check that virtualization is enabled in the BIOS and that HAXM is installed and usable.
+Note: if Hyper-V or Credential Guard is enabled, the emulator will not work with HAXM.
+See https://github.com/intel/haxm/issues/105#issuecomment-470927735 for info on how to disable Credential Guard.
+If you are using an AMD CPU or need to run alongside Hyper-V-based apps such as Docker, we recommend using Windows Hypervisor Platform.General information on acceleration: https://developer.android.com/studio/run/emulator-acceleration.
+  Command: C:\Users\KhanhLVH\AppData\Local\Android\sdk\emulator\emulator.exe -avd flutter_emulator`
