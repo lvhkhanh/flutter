@@ -2,6 +2,8 @@
 
 Courses
 
+* [Flutter Succinctly](https://www.syncfusion.com/ebooks/flutter-succinctly)
+
 * [Build a Photo Sharing app with Google Photos and Flutter](https://codelabs.developers.google.com/codelabs/google-photos-sharing/index.html?index=..%2F..index#0)
 
 * Creating Layouts with Flutter[@](https://app.pluralsight.com/library/courses/creating-layouts-flutter/table-of-contents)[PluralSight](http://referral.pluralsight.com/mQfBZ9r)
