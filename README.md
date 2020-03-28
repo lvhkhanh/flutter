@@ -2,6 +2,8 @@
 
 Courses
 
+* https://codelabs.developers.google.com/codelabs/first-flutter-app-pt1/index.html?index=..%2F..index#0
+
 * [Flutter Succinctly](https://www.syncfusion.com/ebooks/flutter-succinctly)
 
 * [Build a Photo Sharing app with Google Photos and Flutter](https://codelabs.developers.google.com/codelabs/google-photos-sharing/index.html?index=..%2F..index#0)
