@@ -3,6 +3,8 @@
 ## Courses
 ### https://www.appbrewery.co/p/intro-to-flutter
 ## Tools
+### flutter sdk
+### choco install androidstudio
 ### https://rive.app/
 
 * https://codelabs.developers.google.com/codelabs/first-flutter-app-pt1/index.html?index=..%2F..index#0
