@@ -5,6 +5,7 @@
 ## Tools
 ### flutter sdk
 ### choco install androidstudio
+### AVD Manager
 ### https://rive.app/
 
 * https://codelabs.developers.google.com/codelabs/first-flutter-app-pt1/index.html?index=..%2F..index#0
