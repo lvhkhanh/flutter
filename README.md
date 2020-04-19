@@ -2,6 +2,9 @@
 
 ## Courses
 ### https://www.appbrewery.co/p/intro-to-flutter
+## Prerequisites
+### Turn off Hyper-V
+![Turn off Hyper-V](https://snipboard.io/iwCyha.jpg)
 ## Tools
 ### flutter sdk
 ### choco install androidstudio
