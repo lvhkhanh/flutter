@@ -2,6 +2,7 @@
 
 ## Courses
 ### https://www.appbrewery.co/p/intro-to-flutter
+### https://www.pluralsight.com/search?q=flutter
 ## Prerequisites
 ### Turn off Hyper-V
 ![Turn off Hyper-V](https://snipboard.io/iwCyha.jpg)
