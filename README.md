@@ -15,9 +15,9 @@
 ### https://icons8.com/ouch
 ### https://www.vecteezy.com/
 ### https://www.canva.com/
-### flutter_bloc
-### lumberdash
-### ozzie
+### https://pub.dev/packages/flutter_bloc
+### https://pub.dev/packages/lumberdash
+### https://pub.dev/packages/ozzie
 
 * https://codelabs.developers.google.com/codelabs/first-flutter-app-pt1/index.html?index=..%2F..index#0
 
