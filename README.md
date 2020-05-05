@@ -3,6 +3,7 @@
 ## Courses
 ### https://www.appbrewery.co/p/intro-to-flutter
 ### https://www.pluralsight.com/search?q=flutter
+### https://codelabs.developers.google.com/codelabs/google-photos-sharing/index.html?index=..%2F..index#0
 ## Prerequisites
 ### https://codelabs.developers.google.com/codelabs/from-java-to-dart/index.html?index=..%2F..index#0
 ### Turn off Hyper-V
