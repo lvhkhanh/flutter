@@ -26,7 +26,6 @@
 ### https://pub.dev/packages/ozzie
 ### https://pub.dev/packages/flutter_platform_widgets
 
-* https://codelabs.developers.google.com/codelabs/first-flutter-app-pt1/index.html?index=..%2F..index#0
 
 * [Flutter Succinctly](https://www.syncfusion.com/ebooks/flutter-succinctly)
 
