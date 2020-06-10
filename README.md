@@ -7,6 +7,7 @@
 ### https://www.appbrewery.co/p/intro-to-flutter
 ### https://www.pluralsight.com/search?q=flutter
 ### https://codelabs.developers.google.com/codelabs/google-photos-sharing/index.html?index=..%2F..index#0
+### https://www.udacity.com/course/build-native-mobile-apps-with-flutter--ud905
 ## Prerequisites
 ### Dart
 ### https://codelabs.developers.google.com/codelabs/from-java-to-dart/index.html?index=..%2F..index#0
