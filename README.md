@@ -5,6 +5,7 @@
 ### https://www.pluralsight.com/search?q=flutter
 ### https://codelabs.developers.google.com/codelabs/google-photos-sharing/index.html?index=..%2F..index#0
 ## Prerequisites
+### Dart
 ### https://codelabs.developers.google.com/codelabs/from-java-to-dart/index.html?index=..%2F..index#0
 ### Turn off Hyper-V
 ![Turn off Hyper-V](https://snipboard.io/iwCyha.jpg)
@@ -43,6 +44,7 @@ iex "& { $(irm https://aka.ms/install-powershell.ps1) } -UseMSI"
 * [Download Visual Studio Code Insiders](https://code.visualstudio.com/insiders/)
 
 Visual Studio Code Extensions
+* Dart
 * [Flutter](https://marketplace.visualstudio.com/items?itemName=Dart-Code.flutter)
 
 Should run VS Code as administrator
