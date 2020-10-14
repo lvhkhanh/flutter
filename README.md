@@ -154,3 +154,4 @@ If you are using an AMD CPU or need to run alongside Hyper-V-based apps such as 
 DISM /online /get-features
 DISM /online /enable-feature /featurename:HypervisorPlatform
 ```
+### Localization l10n, Internationalization i18n, Translation t9n, Globalization g11n 
