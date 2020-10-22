@@ -10,6 +10,7 @@
 ### https://codelabs.developers.google.com/codelabs/google-photos-sharing/index.html?index=..%2F..index#0
 ### https://www.udacity.com/course/build-native-mobile-apps-with-flutter--ud905 Approx. 2 Weeks
 ### https://www.coursera.org/programs/b0a28d35-70b0-4126-bfa1-27d2636e6420/browse?query=Flutter
+- [ ] https://app.pluralsight.com/library/courses/creating-connected-app-flutter/table-of-contents 2h
 ## Prerequisites
 ### Dart
 ### https://codelabs.developers.google.com/codelabs/from-java-to-dart/index.html?index=..%2F..index#0
