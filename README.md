@@ -161,10 +161,10 @@ DISM /online /enable-feature /featurename:HypervisorPlatform
 ### Localization l10n, Internationalization i18n, Translation t9n, Globalization g11n 
 ```
 flutter upgrade
-flutter create <outPath>
-cd <outPath>
+flutter create <out_path>
+cd <out_path>
 # edit pubspec.yaml for add external package
 # get package
 flutter packages get
-flutter run
+flutter run -d web
 ```
