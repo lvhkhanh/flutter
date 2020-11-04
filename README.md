@@ -159,3 +159,9 @@ DISM /online /get-features
 DISM /online /enable-feature /featurename:HypervisorPlatform
 ```
 ### Localization l10n, Internationalization i18n, Translation t9n, Globalization g11n 
+```
+flutter upgrade
+flutter create <outPath>
+cd <outPath>
+flutter run
+```
