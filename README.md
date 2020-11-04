@@ -4,6 +4,8 @@
 ### https://flutter.dev/docs/cookbook
 ## Labs
 ### https://codelabs.developers.google.com/codelabs/first-flutter-app-pt1
+## Paths
+- [ ] https://developers.google.com/learn/pathways/intro-to-flutter
 ## Courses
 ### https://www.appbrewery.co/p/intro-to-flutter
 ### https://www.pluralsight.com/search?q=flutter
