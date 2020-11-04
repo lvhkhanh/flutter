@@ -163,5 +163,8 @@ DISM /online /enable-feature /featurename:HypervisorPlatform
 flutter upgrade
 flutter create <outPath>
 cd <outPath>
+# edit pubspec.yaml for add external package
+# get package
+flutter packages get
 flutter run
 ```
