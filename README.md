@@ -1,12 +1,12 @@
-# flutter
+# flutter [Lê Vũ Hoàng Khanh @ Google Developer Profile](https://google.dev/u/118064089331573252601)
 ## Officials
 ### https://flutter.dev/docs/reference/tutorials
 ### https://flutter.dev/docs/cookbook
 ## Labs
-### https://codelabs.developers.google.com/codelabs/first-flutter-app-pt1
-### https://codelabs.developers.google.com/codelabs/first-flutter-app-pt2 45m
+- [x] https://codelabs.developers.google.com/codelabs/first-flutter-app-pt1
+- [x] https://codelabs.developers.google.com/codelabs/first-flutter-app-pt2 45m
 ## Paths
-- [ ] https://developers.google.com/learn/pathways/intro-to-flutter
+- [x] https://developers.google.com/learn/pathways/intro-to-flutter
 ## Courses
 ### https://www.appbrewery.co/p/intro-to-flutter
 ### https://www.pluralsight.com/search?q=flutter
