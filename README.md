@@ -168,3 +168,6 @@ cd <out_path>
 flutter packages get
 flutter run -d web
 ```
+### Tracking Issue
+#### Sentry.io
+#### Firebase Crashlytics
