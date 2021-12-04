@@ -10,3 +10,6 @@ vi $HOME/.zshrc
 export PATH="$PATH:[PATH_OF_FLUTTER_GIT_DIRECTORY]/bin"
 esc :wq
 source $HOME/.zshrc
+
+## Done
+### Yellow underline: Scaffold
