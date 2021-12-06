@@ -1,4 +1,5 @@
 # TODO
+## URL strategy Hash # vs Path
 ## onChange vs controller in Text change handle
 
 “dart” can’t be opened because Apple cannot check it for malicious software.
