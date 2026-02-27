@@ -1,4 +1,10 @@
 # flutter [Lê Vũ Hoàng Khanh @ Google Developer Profile](https://google.dev/u/118064089331573252601)
+## Flow
+- [ ] UIUX presentation
+- [ ] Figma to Flutter
+- [ ] flutter_screenutil
+- [ ] domain
+- [ ] data
 ## Officials
 ### https://flutter.dev/docs/reference/tutorials
 ### https://flutter.dev/docs/cookbook
